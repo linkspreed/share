@@ -43,17 +43,20 @@ Share is developed and provided by ([Linkspreed 🚀](https://www.linkspreed.com
 ## 📷 UI
 
 
-### Privacy focused web analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/1.PNG" draggable="false" />
+### Welcome to share
+<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/1.PNG" draggable="false" />
 
-### Analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/2.PNG" draggable="false" />
+### Homepage
+<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/2.PNG" draggable="false" />
 
-### Register now
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/3.PNG" draggable="false" />
+### Explore
+<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/3.PNG" draggable="false" />
 
-### Dashboard
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/4.PNG" draggable="false" />
+### Profile
+<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/4.PNG" draggable="false" />
 
-### Add a new website
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/5.PNG" draggable="false" />
+### Write something ...
+<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/5.PNG" draggable="false" />
+
+### Settings
+<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/5.PNG" draggable="false" />
