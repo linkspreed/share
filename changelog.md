@@ -1,4 +1,4 @@
-V1.3.3 (19 MAY 2022)
+# V1.3.3 (19 MAY 2022)
 - [Fixed] Bug on swift description with large text
 - [Fixed] Bug on modal windows scrollbar
 - [Fixed] Bug on affiliate page placeholder
@@ -8,10 +8,10 @@ V1.3.3 (19 MAY 2022)
 - [Fixed] Bug with links in messages
 - [Fixed] Other white minor bugs
 
-V1.3.2 (28 MARCH 2022)
+# V1.3.2 (28 MARCH 2022)
 - [Fixed]  Bugs of previous version (v1.3.1)
 
-V1.3.1 (25 MARCH 2022)
+# V1.3.1 (25 MARCH 2022)
 - [Suspend] Temporarily suspended RTL support
 - [Added] ability to add your city in profile settings
 - [Added] ability to see is or your follower
@@ -21,10 +21,10 @@ V1.3.1 (25 MARCH 2022)
 - [Fixed] bug with the generation of extra sitemaps
 - [Fixed] bug with a negative number of followers
 
-V1.2.9 (23 NOV 2021)
+# V1.2.9 (23 NOV 2021)
 - [Fixed]  Bugs of previous version (v1.2.7)
 
-V1.2.8 (22 NOV 2021)
+# V1.2.8 (22 NOV 2021)
 - [Added] E-mail notifications system
 - [Added] Google ReCaptcha
 - [Added] Share to WhatsApp option
@@ -32,16 +32,16 @@ V1.2.8 (22 NOV 2021)
 - [Improved] Removed unnecessary libraries
 - [Fixed] Previous minor bugs.
 
-V1.2.7 (11 SEP 2021)
+# V1.2.7 (11 SEP 2021)
 - [Added] Registration of the invited user
 - [Added] Arabic language
 - [Added] RTL languages support
 - [Fixed] Previous minor bugs
 
-V1.2.6 (02 SEP 2021)
+# V1.2.6 (02 SEP 2021)
 - [Fixed] Previous minor bugs
 
-V1.2.5 (01 SEP 2021)
+# V1.2.5 (01 SEP 2021)
 - [Added] UI display color manager
 - [Added] Mobile app download links in footer
 - [Added] Possibility to change the minimum amount of the withdrawal request
@@ -52,18 +52,18 @@ V1.2.5 (01 SEP 2021)
 - [Improved] Mobile Google Chrome images loading issue
 - The kernel of the system has been improved, unnecessary components have been removed, the loading speed has been increased, a lot of changes have been made to the kernel to further improve the quality of the system and simplify the implementation of new functions
 
-V1.2.4 (29 JULY 2021)
+# V1.2.4 (29 JULY 2021)
 - [Fixed] Previous minor bugs
 
-V1.2.3 (24 JULY 2021)
+# V1.2.3 (24 JULY 2021)
 - [Added] Cookies alert
 - [Fixed] Removed sidebar movement when scrolling
 - [Fixed] Previous minor bugs
 
-V1.2.2 (06 JULY 2021)
+# V1.2.2 (06 JULY 2021)
 - [Fixed] Previous minor bugs
 
-V1.2.1 (28 JUNE 2021)
+# V1.2.1 (28 JUNE 2021)
 - [Added] Header top fix on page scroll
 - [Added] E-mail verification system
 - [Added] Username hover popoever
@@ -73,16 +73,16 @@ V1.2.1 (28 JUNE 2021)
 - [Added] Many improvements in the core of the system
 - [Fixed] Previous minor bugs
 
-V1.2.0 (23 MAY 2021)
+# V1.2.0 (23 MAY 2021)
 - [Fixed] Previous minor bugs
 
-V1.1.9 (22 MAY 2021)
+# V1.1.9 (22 MAY 2021)
 - [Fixed] Previous minor bugs
 
-V1.1.8 (21 MAY 2021)
+# V1.1.8 (21 MAY 2021)
 - [Fixed] Previous minor bugs
 
-V1.1.7 (20 MAY 2021)
+# V1.1.7 (20 MAY 2021)
 - [Improved] Emoji system
 - [Improved] Design
 - [Added] Mention of autocomplete
@@ -90,21 +90,21 @@ V1.1.7 (20 MAY 2021)
 - [Fixed] Previous minor bugs
 - And more minor improvements in the system
 
-V1.1.6 (02 MAY 2021)
+# V1.1.6 (02 MAY 2021)
 - [Updated] API
 - [Fixed] Previous minor bugs
 
-V1.1.5 (28 MARCH 2021)
-- [Updated] API
-- [Fixed] Previous minor bugs
-- And more minor improvements in the system
-
-V1.1.4 (02 MARCH 2021)
+# V1.1.5 (28 MARCH 2021)
 - [Updated] API
 - [Fixed] Previous minor bugs
 - And more minor improvements in the system
 
-V1.1.3 (24 FEB 2021)
+# V1.1.4 (02 MARCH 2021)
+- [Updated] API
+- [Fixed] Previous minor bugs
+- And more minor improvements in the system
+
+# V1.1.3 (24 FEB 2021)
 - [Updated] API
 - [Added] oAuth login
 - [Added] New welcome page
@@ -118,25 +118,25 @@ V1.1.3 (24 FEB 2021)
 - [Fixed] Bug with Timezone
 - [Added] Ability to view avatar and profile cover in lightbox
 
-V1.1.2 (07 FEB 2021)
+# V1.1.2 (07 FEB 2021)
 - [Fixed] Bugs with image orientation uploaded from the camera
 - [Fixed] Bugs with uploading files and freezing the upload slider
 - [Fixed] Shortcomings with dark theme on mobile and web devices
 
-V1.1.1 (03 FEB 2021)
+# V1.1.1 (03 FEB 2021)
 - [Added] The ability to play Vimeo videos without leaving the page
 - [Added] Google Maps URL lightbox preview
 - [Improved] Links (URLs) preview system
 - [Fixed] Bugs dark theme on login page
 - [Improved] Some more kernel improvements to stabilize the system
 
-V1.0.9 (22 JAN 2021)
+# V1.0.9 (22 JAN 2021)
 - [Added] The ability to play YouTube videos without leaving the page
 - [Added] Ability to edit language texts, without losing changes when updating
 - [Fixed] bugs with user blocking
 - [Fixed] bugs dark theme
 
-V1.0.8 (04 JAN 2021)
+# V1.0.8 (04 JAN 2021)
 - [Added] System of notification settings
 - [Added] API endpoints
 - [Enabled] Login with username
@@ -154,7 +154,7 @@ V1.0.8 (04 JAN 2021)
 - [Fixed] Previous bugs
 - And many more improvements in the core of the script and improved system quality
 
-V1.0.6 (18 SEPTEMBER 2020)
+# V1.0.6 (18 SEPTEMBER 2020)
 - [Added] SPA loading system (No hard refreshes anyomore)
 - [Added] Ads system
 - [Added] Affiliate system
@@ -171,7 +171,7 @@ V1.0.6 (18 SEPTEMBER 2020)
 - [Fixed] Issue with links to post on social media (Facebook, etc.)
 - [Fixed] Other minor issues with the script
 
-V1.0.5 (22 JULY 2020)
+# V1.0.5 (22 JULY 2020)
 - [Added] User verification system
 - [Added] Registration confirmation system
 - [Added] User privacy system
@@ -180,22 +180,22 @@ V1.0.5 (22 JULY 2020)
 - [Added] Sitemap creation system
 - [Fixed] Previous several minor bugs
 
-V1.0.4 (29 JUNE 2020)
+# V1.0.4 (29 JUNE 2020)
 - [Fixed] Previous several minor bugs (URLs in posts, image extentions support, etc..)
 
-V1.0.3 (15 JUNE 2020)
+# V1.0.3 (15 JUNE 2020)
 - [Feature] function for changing the username specified during registration
 - [Fixed] bug with drop-down menu on profile settings page
 - [Fixed] bug with pop-up message on the home page
 - [Fixed] bug with function of display language for the user
 
-V1.0.2 (11 JUNE 2020)
+# V1.0.2 (11 JUNE 2020)
 - [Fixed] bug with user gender difference (His/Her) In timeline
 - [Fixed] bug with dropdown menu For mobile devices
 - [Fixed] bug moving cover on user profile page
 
-V1.0.1 (30 MAY 2020)
+# V1.0.1 (30 MAY 2020)
 - [Fixed] Previous several important bugs
 
-V1.0.0 (21 MAY 2020)
+# V1.0.0 (21 MAY 2020)
 - Version 1.0.0 released on 21 May 2020.
