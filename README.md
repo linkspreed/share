@@ -15,70 +15,45 @@ Share 🔗everything that moves and interests you📱
 
 ## Features
 
-**DASHBOARD** – Get an overview of your account and your tracked websites.
-
-**STATS** – Get specific statistics & analytics reports for a website:
-- Realtime
-- Overview
-- Behavior
-    - Pages
-    - Landing pages
-    
--Acquisitions
-    - Referrers
-    - Search engines
-    - Social networks
-    - Campaigns
-    
-- Geographic
-    - Continents
-    - Countries
-    - Cities
-    - Languages
-    
-- Technology
-    - Operating systems
-    - Browsers
-    - Screen resolutions
-    - Devices
-    
-- Events
-
-**EXPORT** – Export your statistics & analytics reports in CSV format.
-
-**NOTIFICATIONS** – Get periodic emails about your websites performance.
-
+- Anonymous and safe
+- Fast and easy to use
+- easy to get in touch with people
+- talk freely and openly with other people about specific content and topics
+- share whatever moves you
+- an intelligent messenger
+- 24 hour stories to capture short-term events
 **AND SO MUCH MORE ...**
 
 ## More
  
-Analytix is **free**, **real-time** and with **unlimited** resources 
-for developers around the world.
+**Share** is the best platform to just start writing.
+What moves you, what interests you?
+No matter what you do, no matter where you are and no matter who you are - everyone is welcome on Share to publish their opinion on topics on the Internet.
+It has never been so easy to be free on the internet and reach other people with your messages.
 
-Our focus is on **usability** and **security** 
-for our developers, users and anyone who comes into contact with ([Linkspreed 🚀](https://www.linkspreed.com/)).
+Share is developed and provided by ([Linkspreed 🚀](https://www.linkspreed.com/)).
 
  ```php
     We make sure that our code 
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Analytix freely and use all features to an unlimited extent.
+ **Share** contains no advertising and can be used freely and free of charge by anyone.
 
 ## 📷 UI
 
 
 ### Privacy focused web analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/1.PNG" draggable="false" />
 
 ### Analytics
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/2.PNG" draggable="false" />
 
 ### Register now
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/3.PNG" draggable="false" />
 
 ### Dashboard
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/4.PNG" draggable="false" />
 
 ### Add a new website
-<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/Analytix/blob/main/screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Analytix" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/5.PNG" draggable="false" />
