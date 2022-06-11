@@ -1,4 +1,4 @@
-# <img align="left" alt="Twitter" width="500px" src="https://share.ga/themes/default/statics/img/logo.png" draggable="false" /> Share ([Click to try 🚀](https://share.ga/))
+# <img align="left" alt="Twitter" width="400px" src="https://share.ga/themes/default/statics/img/logo.png" draggable="false" /> Share ([Click to try 🚀](https://share.ga/))
 
 Share 🔗everything that moves and interests you📱
 
