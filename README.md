@@ -4,8 +4,8 @@ Share 🔗everything that moves and interests you📱
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog ❤️](https://github.com/linkspreed/share/blob/main/changelog.md)** **Check out the full Share changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/share/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Share besides development**
 
 
 <div align="center">
