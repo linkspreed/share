@@ -38,6 +38,12 @@ Share is developed and provided by ([Linkspreed 🚀](https://www.linkspreed.com
     is developed properly so that 
     the platform works as well as possible.
 ```
+
+ ```txt
+    We will soon be presenting
+    Share's API here on GitHub
+    as well :)
+```
  **Share** contains no advertising and can be used freely and free of charge by anyone.
 
 ## 📷 UI
