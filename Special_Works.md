@@ -1,3 +1,7 @@
+# 08.08.2022  
+  - We have a new logo/icon at Share (share.ga)
+  - https://share.ga/themes/default/statics/img/logo.png
+
 # 11.06.2022
   - Today on June 11th, 2022 we connected and pushed **Share** to the Cloudflare infrastructure.
      - This improves both **speed** and **safety**.
