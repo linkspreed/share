@@ -1,5 +1,8 @@
+# 09.08.2022  
+  - We are working on the share app.
+
 # 08.08.2022
-  - We are now starting work on an Android app for #Share. 📱
+  - We are now starting work on an Android app for Share. 📱
 
 # 08.08.2022
   - We have a new logo/icon at Share (share.ga)
