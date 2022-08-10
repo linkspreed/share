@@ -1,3 +1,6 @@
+# 10.08.2022  
+  - We continue to develop the Share app. 📱
+
 # 09.08.2022  
   - We are working on the share app.
 
