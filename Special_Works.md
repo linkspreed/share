@@ -1,3 +1,6 @@
+### 01.01.2023 (announcement Share)
+- We are working on a new update (v1.3.4) for **Share**.
+
 # 10.08.2022  
   - We continue to develop the Share app. 📱
 
