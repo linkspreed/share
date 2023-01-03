@@ -65,4 +65,4 @@ Share is developed and provided by ([Linkspreed 🚀](https://www.linkspreed.com
 <img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/5.PNG" draggable="false" />
 
 ### Settings
-<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/5.PNG" draggable="false" />
+<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/6.PNG" draggable="false" />
