@@ -1,3 +1,9 @@
+### 05.06.2023 (announcement Share)
+- 🎉 Hey all! Great news - Share platform is back and LIVE 🚀 Check it out at https://share.linkspreed.com! 💻 Are you excited to explore all the amazing features Share has to offer? #SharePlatform #Onlinetools #CollaborateBetter #LetsShareTogether 🤗
+
+### 05.06.2023 (announcement Share)
+- 🚨IMPORTANT UPDATE🚨 Our platform Share is currently offline due to the deletion of 7 million TLD Domains .ga 😭 Don't worry though, our team is working tirelessly to get things back up and running! 🤞 Stay tuned for updates on our Github page. 
+
 ### 01.01.2023 (announcement Share)
 - We are working on a new update (v1.3.4) for **Share**.
 
